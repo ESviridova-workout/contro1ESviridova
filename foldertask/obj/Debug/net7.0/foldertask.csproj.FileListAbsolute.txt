@@ -1,0 +1,14 @@
+C:\Users\Елена\Desktop\WorkingFolder\contro1ESviridova\foldertask\obj\Debug\net7.0\foldertask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\WorkingFolder\contro1ESviridova\foldertask\obj\Debug\net7.0\foldertask.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\WorkingFolder\contro1ESviridova\foldertask\obj\Debug\net7.0\foldertask.AssemblyInfo.cs
+C:\Users\Елена\Desktop\WorkingFolder\contro1ESviridova\foldertask\obj\Debug\net7.0\foldertask.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\WorkingFolder\contro1ESviridova\foldertask\bin\Debug\net7.0\foldertask.exe
+C:\Users\Елена\Desktop\WorkingFolder\contro1ESviridova\foldertask\bin\Debug\net7.0\foldertask.deps.json
+C:\Users\Елена\Desktop\WorkingFolder\contro1ESviridova\foldertask\bin\Debug\net7.0\foldertask.runtimeconfig.json
+C:\Users\Елена\Desktop\WorkingFolder\contro1ESviridova\foldertask\bin\Debug\net7.0\foldertask.dll
+C:\Users\Елена\Desktop\WorkingFolder\contro1ESviridova\foldertask\bin\Debug\net7.0\foldertask.pdb
+C:\Users\Елена\Desktop\WorkingFolder\contro1ESviridova\foldertask\obj\Debug\net7.0\foldertask.dll
+C:\Users\Елена\Desktop\WorkingFolder\contro1ESviridova\foldertask\obj\Debug\net7.0\refint\foldertask.dll
+C:\Users\Елена\Desktop\WorkingFolder\contro1ESviridova\foldertask\obj\Debug\net7.0\foldertask.pdb
+C:\Users\Елена\Desktop\WorkingFolder\contro1ESviridova\foldertask\obj\Debug\net7.0\foldertask.genruntimeconfig.cache
+C:\Users\Елена\Desktop\WorkingFolder\contro1ESviridova\foldertask\obj\Debug\net7.0\ref\foldertask.dll
